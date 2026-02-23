@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+/build/
+/target/
+.gradle/
+
+# Compiled
+*.class
+
+# Logs
+*.log
+
+# Packages
+*.jar
+*.war
+*.nar
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
