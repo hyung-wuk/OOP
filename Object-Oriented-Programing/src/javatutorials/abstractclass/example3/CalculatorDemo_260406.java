@@ -45,7 +45,7 @@ class CaculatorDecoMinus extends Calculator{
     }
 }
 
-public class CalculatorDemo {
+public class CalculatorDemo_260406 {
     public static void main(String[] args) {
         CaculatorDecoPlus c = new CaculatorDecoPlus();
         CaculatorDecoMinus c1 = new CaculatorDecoMinus();
